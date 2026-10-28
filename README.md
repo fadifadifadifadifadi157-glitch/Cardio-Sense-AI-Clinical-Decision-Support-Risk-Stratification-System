@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Predictor — Clinical ML Interface
+# ❤️ Cardio Sense AI - Clinical Decision Support & Risk Stratification System
 
 An interactive **Streamlit web app** that predicts a patient's risk of heart disease from 11 clinical features, powered by a **Logistic Regression** model trained on the UCI Heart Failure Prediction dataset.
 
